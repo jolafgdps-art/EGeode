@@ -10,8 +10,5 @@
 	"name": "Jolaf GDPS Art",
 	"version": "1.0.0",
 	"developer": "Jolaf Arts",
-	"description": "IDK,for now",
-	"dependencies": {
-		"geode.node-ids": ">=v1.23.3"
-	}
+	"description": "IDK,for now"
 }
