@@ -1,0 +1,17 @@
+{
+	"geode": "v6.0.0-alpha.2",
+	"gd": {
+        "win": "2.2091",
+		"android": "2.2091",
+		"mac": "2.2091",
+		"ios": "2.2091"
+  },
+	"id": "jolaf-art.gdps",
+	"name": "Jolaf GDPS Art",
+	"version": "1.0.0",
+	"developer": "Jolaf Arts",
+	"description": "IDK,for now",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	}
+}
